@@ -1,0 +1,10 @@
+Data Structure (DS): a way of organizing data so it can be used effectively. 
+Big-O Notation;
+* Constant Time: O(1)
+* Logarithmic Time: O(log(n))
+* Linaer Time: O(n)
+* Linearithmic Time: O(nlog(n))
+* Quadratic Time: O(n^2)
+* Cubic Time: O(n^3)
+* Exponencial Time: O(b^n). b>1
+* Factorial Time: O(n!)
