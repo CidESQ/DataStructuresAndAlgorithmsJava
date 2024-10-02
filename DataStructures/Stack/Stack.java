@@ -1,4 +1,4 @@
-
+// import java.util.;
 //! Stack || Pila
 
 public class Stack<T> {
@@ -9,6 +9,10 @@ public class Stack<T> {
     public Stack() {
         this.size = 0;
         this.top = null;
+    }
+
+    public Stack(T data) { // ? Create a stack with a first element
+        push(data);
     }
 
     public int getSize() {
